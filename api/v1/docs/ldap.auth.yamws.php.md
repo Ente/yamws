@@ -1,0 +1,1 @@
+## TODO: Create documentation for the ldap.auth class

@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ldaptools/ldaptools": "^0.25.2",
+        "firebase/php-jwt": "^6.0",
+        "spatie/async": "^1.5"
+    }
+}
